@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gsap-animation-react/static/css/main.b438a3f5.chunk.css",
+    "main.js": "/gsap-animation-react/static/js/main.06b7d550.chunk.js",
+    "main.js.map": "/gsap-animation-react/static/js/main.06b7d550.chunk.js.map",
+    "runtime-main.js": "/gsap-animation-react/static/js/runtime-main.7dde6571.js",
+    "runtime-main.js.map": "/gsap-animation-react/static/js/runtime-main.7dde6571.js.map",
+    "static/js/2.bbac602c.chunk.js": "/gsap-animation-react/static/js/2.bbac602c.chunk.js",
+    "static/js/2.bbac602c.chunk.js.map": "/gsap-animation-react/static/js/2.bbac602c.chunk.js.map",
+    "index.html": "/gsap-animation-react/index.html",
+    "precache-manifest.5bd922ccc30a35980b11bfc183c03470.js": "/gsap-animation-react/precache-manifest.5bd922ccc30a35980b11bfc183c03470.js",
+    "service-worker.js": "/gsap-animation-react/service-worker.js",
+    "static/css/main.b438a3f5.chunk.css.map": "/gsap-animation-react/static/css/main.b438a3f5.chunk.css.map",
+    "static/js/2.bbac602c.chunk.js.LICENSE.txt": "/gsap-animation-react/static/js/2.bbac602c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gsap-animation-react/static/media/logo.9a28da9f.svg",
+    "static/media/newyork.png": "/gsap-animation-react/static/media/newyork.4322bd96.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dde6571.js",
+    "static/js/2.bbac602c.chunk.js",
+    "static/css/main.b438a3f5.chunk.css",
+    "static/js/main.06b7d550.chunk.js"
+  ]
+}
